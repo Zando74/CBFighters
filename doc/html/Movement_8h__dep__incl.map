@@ -1,0 +1,10 @@
+<map id="src/core/Movement.h" name="src/core/Movement.h">
+<area shape="rect" id="node2" href="$Fighters_8h.html" title="Module gérant Nos combattants Un combattant est avant tout representé par son caractère et son nom..." alt="" coords="332,80,463,107"/>
+<area shape="rect" id="node3" href="$Player_8h.html" title="Module gérant le joueur, ainsi que leurs fonction associées. " alt="" coords="337,155,458,181"/>
+<area shape="rect" id="node4" href="$Boxcolliders_8h.html" title="Module gérant les boxes de collisions, ainsi que leurs fonction associées. " alt="" coords="5,229,160,256"/>
+<area shape="rect" id="node5" href="$Ihm_8h_source.html" title="src/sdl2/Ihm.h" alt="" coords="206,304,311,331"/>
+<area shape="rect" id="node6" href="$Map_8h.html" title="Module gérant la map, ainsi que leurs fonction associées. " alt="" coords="427,229,525,256"/>
+<area shape="rect" id="node7" href="$Game_8h.html" title="Module gérant le jeu en mode texte, ainsi que leurs fonction associées. " alt="" coords="464,304,573,331"/>
+<area shape="rect" id="node8" href="$SpriteManager_8h_source.html" title="src/sdl2/SpriteManager.h" alt="" coords="235,229,402,256"/>
+<area shape="rect" id="node9" href="$Slider_8h_source.html" title="src/sdl2/Slider.h" alt="" coords="601,229,717,256"/>
+</map>

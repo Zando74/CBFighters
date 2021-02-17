@@ -1,0 +1,9 @@
+<map id="src/core/Position.h" name="src/core/Position.h">
+<area shape="rect" id="node2" href="$Player_8h.html" title="Module gérant le joueur, ainsi que leurs fonction associées. " alt="" coords="337,80,458,107"/>
+<area shape="rect" id="node3" href="$Boxcolliders_8h.html" title="Module gérant les boxes de collisions, ainsi que leurs fonction associées. " alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node4" href="$Ihm_8h_source.html" title="src/sdl2/Ihm.h" alt="" coords="206,229,311,256"/>
+<area shape="rect" id="node5" href="$Map_8h.html" title="Module gérant la map, ainsi que leurs fonction associées. " alt="" coords="427,155,525,181"/>
+<area shape="rect" id="node6" href="$Game_8h.html" title="Module gérant le jeu en mode texte, ainsi que leurs fonction associées. " alt="" coords="464,229,573,256"/>
+<area shape="rect" id="node7" href="$SpriteManager_8h_source.html" title="src/sdl2/SpriteManager.h" alt="" coords="235,155,402,181"/>
+<area shape="rect" id="node8" href="$Slider_8h_source.html" title="src/sdl2/Slider.h" alt="" coords="601,155,717,181"/>
+</map>

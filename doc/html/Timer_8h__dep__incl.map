@@ -1,0 +1,9 @@
+<map id="src/core/Timer.h" name="src/core/Timer.h">
+<area shape="rect" id="node2" href="$Player_8h.html" title="Module gérant le joueur, ainsi que leurs fonction associées. " alt="" coords="301,80,422,107"/>
+<area shape="rect" id="node4" href="$Ihm_8h_source.html" title="src/sdl2/Ihm.h" alt="" coords="577,229,682,256"/>
+<area shape="rect" id="node6" href="$Game_8h.html" title="Module gérant le jeu en mode texte, ainsi que leurs fonction associées. " alt="" coords="5,229,115,256"/>
+<area shape="rect" id="node3" href="$Boxcolliders_8h.html" title="Module gérant les boxes de collisions, ainsi que leurs fonction associées. " alt="" coords="552,155,707,181"/>
+<area shape="rect" id="node5" href="$Map_8h.html" title="Module gérant la map, ainsi que leurs fonction associées. " alt="" coords="97,155,196,181"/>
+<area shape="rect" id="node7" href="$SpriteManager_8h_source.html" title="src/sdl2/SpriteManager.h" alt="" coords="361,155,527,181"/>
+<area shape="rect" id="node8" href="$Slider_8h_source.html" title="src/sdl2/Slider.h" alt="" coords="221,155,337,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/txt/Game.h" name="src/txt/Game.h">
+<area shape="rect" id="node4" href="$Player_8h.html" title="Module gérant le joueur, ainsi que leurs fonction associées. " alt="" coords="582,155,692,181"/>
+<area shape="rect" id="node11" href="$Timer_8h.html" title="Module gérant l&#39;actualisation du programme, ainsi que ses fonctions associées. " alt="" coords="124,229,190,256"/>
+<area shape="rect" id="node15" href="$Map_8h.html" title="Module gérant la map, ainsi que leurs fonction associées. " alt="" coords="894,80,953,107"/>
+<area shape="rect" id="node16" href="$Input_8h.html" title="Module gérant les entrée clavier en mode texte, ainsi que leurs fonction associées. " alt="" coords="832,304,895,331"/>
+<area shape="rect" id="node17" href="$CircularBuffer_8h.html" title="Module gérant Nos Pile circulaire, ainsi que ses fonctions associées. " alt="" coords="369,229,524,256"/>
+<area shape="rect" id="node5" href="$Position_8h.html" title="Module gérant positions de nos personnages. " alt="" coords="548,229,628,256"/>
+<area shape="rect" id="node6" href="$Fighters_8h.html" title="Module gérant Nos combattants Un combattant est avant tout representé par son caractère et son nom..." alt="" coords="265,229,345,256"/>
+<area shape="rect" id="node14" href="$Health_8h_source.html" title="Health.h" alt="" coords="652,229,723,256"/>
+<area shape="rect" id="node8" href="$Moves_8h.html" title="Module gérant les coups des personnages, ainsi que leurs fonction associées. " alt="" coords="436,304,508,331"/>
+<area shape="rect" id="node10" href="$Movement_8h.html" title="Module gérant les mouvements des personnages, ainsi que leurs fonction associées. ..." alt="" coords="316,304,411,331"/>
+</map>

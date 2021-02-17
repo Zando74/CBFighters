@@ -1,0 +1,8 @@
+<map id="src/core/Player.h" name="src/core/Player.h">
+<area shape="rect" id="node2" href="$Position_8h.html" title="Module gérant positions de nos personnages. " alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$Fighters_8h.html" title="Module gérant Nos combattants Un combattant est avant tout representé par son caractère et son nom..." alt="" coords="283,80,363,107"/>
+<area shape="rect" id="node10" href="$Timer_8h.html" title="Module gérant l&#39;actualisation du programme, ainsi que ses fonctions associées. " alt="" coords="560,80,627,107"/>
+<area shape="rect" id="node13" href="$Health_8h_source.html" title="Health.h" alt="" coords="651,80,722,107"/>
+<area shape="rect" id="node6" href="$Moves_8h.html" title="Module gérant les coups des personnages, ainsi que leurs fonction associées. " alt="" coords="413,155,485,181"/>
+<area shape="rect" id="node9" href="$Movement_8h.html" title="Module gérant les mouvements des personnages, ainsi que leurs fonction associées. ..." alt="" coords="294,155,389,181"/>
+</map>

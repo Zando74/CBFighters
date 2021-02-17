@@ -1,0 +1,16 @@
+digraph "Slider"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="Slider",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Interface_Element",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classInterface__Element.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fill\nbar" ,fontname="Helvetica"];
+  Node4 [label="BoxArea",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classBoxArea.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Box_Interface",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" anchorPlayer" ,fontname="Helvetica"];
+  Node6 [label="Player",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPlayer.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" myHealth" ,fontname="Helvetica"];
+  Node7 [label="Health",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classHealth.html"];
+}

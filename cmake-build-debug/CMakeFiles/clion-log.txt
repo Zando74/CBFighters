@@ -1,0 +1,7 @@
+/snap/clion/111/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/constantin/Documents/LIFAP4/Projet/current_CBFIGHTERS/cbfighters
+-- Configuring done
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: dummy
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
